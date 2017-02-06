@@ -1,0 +1,20 @@
+name: People
+description: 'Provides People content type and related configuration. Use <em>people</em> content type for people such as staff, volunteers, contributors.'
+type: module
+core: 8.x
+dependencies:
+  - drutopia_core
+  - ds
+  - entity_reference_revisions
+  - field
+  - image
+  - menu_ui
+  - node
+  - paragraphs
+  - path
+  - pathauto
+  - taxonomy
+  - text
+  - user
+  - views
+package: Drutopia

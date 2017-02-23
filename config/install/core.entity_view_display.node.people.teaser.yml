@@ -9,7 +9,7 @@ dependencies:
     - field.field.node.people.field_people_position
     - field.field.node.people.field_people_type
     - field.field.node.people.field_summary
-    - image.style.medium
+    - image.style.small_square
     - node.type.people
   module:
     - ds
@@ -59,7 +59,7 @@ content:
     weight: 0
     label: hidden
     settings:
-      image_style: medium
+      image_style: small_square
       image_link: content
     third_party_settings: {  }
   field_people_position:

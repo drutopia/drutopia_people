@@ -36,17 +36,10 @@ third_party_settings:
     regions:
       ds_content:
         - field_image
-        - node_title
         - field_people_position
         - field_body_paragraph
         - field_people_type
         - links
-    fields:
-      node_title:
-        plugin_id: node_title
-        weight: 1
-        label: hidden
-        formatter: default
 id: node.people.full
 targetEntityType: node
 bundle: people

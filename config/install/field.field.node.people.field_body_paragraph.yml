@@ -21,13 +21,13 @@ settings:
   handler_settings:
     target_bundles: null
     target_bundles_drag_drop:
-      paragraphs_base_text:
+      text:
         weight: -7
         enabled: false
-      paragraphs_base_image:
-        weight: -6
+      image:
+        weight: -7
         enabled: false
-      paragraphs_base_files:
-        weight: -5
+      file:
+        weight: -7
         enabled: false
 field_type: entity_reference_revisions

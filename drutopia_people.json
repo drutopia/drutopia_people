@@ -1,0 +1,14 @@
+{
+  "name": "drupal/drutopia_people",
+  "description": "Drutopia People is a base feature providing a people content type and related configuration.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://gitlab.com/drutopia/drutopia_people",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/ctools": "^3.0",
+    "drupal/ds": "^3.0-rc1",
+    "drupal/pathauto": "^1.0",
+    "drupal/token": "^1.0"
+  }
+}

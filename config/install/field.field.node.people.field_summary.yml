@@ -11,7 +11,7 @@ field_name: field_summary
 entity_type: node
 bundle: people
 label: Summary
-description: 'Use this summary field to provide a brief summary of your post that will display in certain displays.'
+description: 'Enter a short description of what this person is about. The summary is displayed on People teasers, such as on the Staff page. '
 required: false
 translatable: true
 default_value: {  }

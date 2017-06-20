@@ -10,7 +10,7 @@ field_name: field_people_type
 entity_type: node
 bundle: people
 label: 'People type'
-description: ''
+description: 'Site visitors can filter content by the People Type. Add People Type options at the <a href="/admin/structure/taxonomy/manage/people_type/overview">People Type vocabulary page</a>.'
 required: false
 translatable: false
 default_value: {  }

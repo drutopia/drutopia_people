@@ -1,5 +1,5 @@
 name: 'Drutopia People'
-description: 'Provides People content type and related configuration. Use <em>people</em> content type for people such as staff, volunteers, contributors.'
+description: 'Provides People content type and related configuration. Use <em>people</em> content type for showing visitors information about people such as staff, volunteers, contributors.'
 type: module
 core: 8.x
 dependencies:

@@ -1,0 +1,16 @@
+path:
+  - permissions
+plugin: add
+actions:
+  'create people content':
+    value: 'create people content'
+  'delete people revisions':
+    value: 'delete people revisions'
+  'delete any people content':
+    value: 'delete any people content'
+  'edit any people content':
+    value: 'edit any people content'
+  'revert people revisions':
+    value: 'revert people revisions'
+  'view people revisions':
+    value: 'view people revisions'

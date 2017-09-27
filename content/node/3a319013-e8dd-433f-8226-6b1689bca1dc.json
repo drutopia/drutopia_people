@@ -25,7 +25,7 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/people\/field_image": [
             {
-                "href": "http:\/\/default\/sites\/default\/files\/2017-09\/brenda-gray.jpeg",
+                "href": "http:\/\/default\/sites\/default\/files\/2017-09\/brenda-gray_0.jpeg",
                 "lang": "en"
             }
         ],
@@ -35,19 +35,9 @@
             }
         ]
     },
-    "nid": [
-        {
-            "value": 15
-        }
-    ],
     "uuid": [
         {
             "value": "3a319013-e8dd-433f-8226-6b1689bca1dc"
-        }
-    ],
-    "vid": [
-        {
-            "value": 33
         }
     ],
     "langcode": [
@@ -125,14 +115,14 @@
                     }
                 ],
                 "lang": "en",
-                "target_revision_id": "144"
+                "target_revision_id": "152"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/people\/field_image": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/sites\/default\/files\/2017-09\/brenda-gray.jpeg"
+                        "href": "http:\/\/default\/sites\/default\/files\/2017-09\/brenda-gray_0.jpeg"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
@@ -140,14 +130,14 @@
                 },
                 "uuid": [
                     {
-                        "value": "0d060de9-6036-4fa8-8e3a-6000af58768e"
+                        "value": "36767be2-932c-4f74-bc61-90af63df3f1c"
                     }
                 ],
                 "lang": "en",
                 "alt": "Brenda Gray profile picture",
                 "title": "",
-                "width": "4876",
-                "height": "3230"
+                "width": "600",
+                "height": "800"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/people\/field_people_type": [
@@ -176,7 +166,7 @@
     ],
     "changed": [
         {
-            "value": 1506143151,
+            "value": 1506553891,
             "lang": "en"
         }
     ],
@@ -194,7 +184,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": 1506143151
+            "value": 1506553891
         }
     ],
     "revision_translation_affected": [

@@ -6,6 +6,7 @@ dependencies:
   - config_actions
   - ctools
   - drutopia_core
+  - drutopia_seo
   - ds
   - entity_reference_revisions
   - field

@@ -5,6 +5,7 @@ dependencies:
     - field.field.node.people.body
     - field.field.node.people.field_body_paragraph
     - field.field.node.people.field_image
+    - field.field.node.people.field_meta_tags
     - field.field.node.people.field_people_position
     - field.field.node.people.field_people_type
     - field.field.node.people.field_summary
@@ -12,6 +13,7 @@ dependencies:
     - node.type.people
   module:
     - image
+    - metatag
     - paragraphs
     - path
     - text
@@ -45,6 +47,12 @@ content:
       preview_image_style: thumbnail
     third_party_settings: {  }
     type: image_image
+    region: content
+  field_meta_tags:
+    weight: 26
+    settings: {  }
+    third_party_settings: {  }
+    type: metatag_firehose
     region: content
   field_people_position:
     weight: 1

@@ -114,8 +114,7 @@
                         "value": "327ffac6-f41d-488c-8d6d-a4e56cbe7a20"
                     }
                 ],
-                "lang": "en",
-                "target_revision_id": "149"
+                "lang": "en"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/people\/field_image": [

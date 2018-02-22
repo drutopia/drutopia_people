@@ -6,6 +6,7 @@ dependencies:
     - field.field.node.people.body
     - field.field.node.people.field_body_paragraph
     - field.field.node.people.field_image
+    - field.field.node.people.field_meta_tags
     - field.field.node.people.field_people_position
     - field.field.node.people.field_people_type
     - field.field.node.people.field_summary
@@ -87,4 +88,5 @@ content:
     third_party_settings: {  }
 hidden:
   body: true
+  field_meta_tags: true
   field_summary: true

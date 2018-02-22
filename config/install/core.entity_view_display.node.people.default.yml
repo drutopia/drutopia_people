@@ -12,7 +12,6 @@ dependencies:
     - node.type.people
   module:
     - ds
-    - metatag
     - user
 third_party_settings:
   ds:
@@ -35,18 +34,12 @@ id: node.people.default
 targetEntityType: node
 bundle: people
 mode: default
-content:
-  field_meta_tags:
-    weight: 1
-    label: above
-    settings: {  }
-    third_party_settings: {  }
-    type: metatag_empty_formatter
-    region: content
+content: {  }
 hidden:
   body: true
   field_body_paragraph: true
   field_image: true
+  field_meta_tags: true
   field_people_position: true
   field_people_type: true
   field_summary: true

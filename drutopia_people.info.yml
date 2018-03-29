@@ -19,6 +19,7 @@ dependencies:
   - path
   - pathauto
   - responsive_image
+  - search_api
   - taxonomy
   - text
   - user

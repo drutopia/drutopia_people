@@ -228,6 +228,7 @@ display:
         use_more_text: true
         link_display: true
         link_url: true
+      block_hide_empty: true
     cache_metadata:
       max-age: -1
       contexts:

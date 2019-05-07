@@ -11,7 +11,7 @@ dependencies:
     - field.field.node.people.field_people_type
     - field.field.node.people.field_summary
     - node.type.people
-    - responsive_image.styles.narrow
+    - responsive_image.styles.tall
   module:
     - ds
     - entity_reference_revisions
@@ -60,7 +60,7 @@ content:
     weight: 0
     label: hidden
     settings:
-      responsive_image_style: narrow
+      responsive_image_style: tall
       image_link: ''
     third_party_settings: {  }
     type: responsive_image

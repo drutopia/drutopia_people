@@ -11,7 +11,7 @@ dependencies:
     - field.field.node.people.field_people_type
     - field.field.node.people.field_summary
     - node.type.people
-    - responsive_image.styles.narrow
+    - responsive_image.styles.short
   module:
     - ds
     - field_group
@@ -67,6 +67,7 @@ third_party_settings:
         effect: none
         speed: fast
       label: 'Card content'
+      region: hidden
 id: node.people.small_card
 targetEntityType: node
 bundle: people
@@ -78,7 +79,7 @@ content:
     region: ds_content
     label: visually_hidden
     settings:
-      responsive_image_style: narrow
+      responsive_image_style: short
       image_link: content
     third_party_settings: {  }
   field_people_position:

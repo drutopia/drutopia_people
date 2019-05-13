@@ -4,6 +4,7 @@ dependencies:
   config:
     - field.storage.node.field_people_type
     - search_api.index.people
+    - system.menu.main
   module:
     - search_api
     - user
@@ -274,6 +275,15 @@ display:
     display_options:
       display_extenders: {  }
       path: people
+      menu:
+        type: normal
+        title: People
+        description: 'Learn about our team'
+        expanded: false
+        parent: 'menu_link_content:33435872-bdbe-4833-9477-c057c2c33359'
+        weight: 0
+        context: '0'
+        menu_name: main
     cache_metadata:
       max-age: -1
       contexts:
